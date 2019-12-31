@@ -80,13 +80,12 @@ nav{
 
 .first-infobox{
     height: 100px;
-    widows: 50px;
+    width: 50px;
     box-sizing: content-box;
 }
 
 footer{
-    position: static;
-    bottom: 0px;
+    position: relative;
     background-color: black;
     height: 75px;
     width: 100%;
